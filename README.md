@@ -8,7 +8,7 @@ Whether you're a beginner, intermediate, or just curious, this repository is wri
 
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
-Legal Disclaimer:
+LEGAL DISCLAIMER:
 ____________________
 ____________________
 
