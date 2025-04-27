@@ -1,18 +1,17 @@
 # cybersec-h4king-setup-and-tools
-Self-authored documentation on configurations &amp; setups which I use 
 
+Self-authored documentation on configurations & setups I use
 
 Hey there—welcome to my personal cybersecurity learning space.
 
-Whether you're a beginner, intermediate, or just curious, this repository is written entirely by me, as a way to document my own process, methods, and setups in the world of cybersecurity.
-
+Whether you're a beginner, intermediate, or just curious, this repository is written entirely by me, as a way to document my own process, methods, and setups in the world of cybersecurity. Everything here is based on firsthand experience, research, and experimentation.
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 LEGAL DISCLAIMER:
 ____________________
 ____________________
 
-This repository is a personal documentation project, created and maintained solely by me. It reflects my individual learning journey, configuration methods, and understanding of cybersecurity tools and systems.
+This repository is a personal documentation project, created and maintained solely by me{5kullk3r}. It reflects my individual learning journey, configuration methods, and understanding of cybersecurity tools and systems.
 
 All content in this repository is:
 
@@ -39,3 +38,6 @@ You have appropriate permissions for any security-related testing you perform
 You will not use this content to cause harm, disrupt systems, or violate laws or terms of service
 I assume no liability for any outcomes resulting from the misuse, misinterpretation, or unethical application of this material.
 If you choose to apply anything documented here, you are solely responsible for ensuring that your actions are legal, authorized, and ethically sound in your specific environment or jurisdiction.
+
+________________________________________________________________________________________________________________________________
+✍️ Authored and maintained by 5kullk3r
